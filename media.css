@@ -1,0 +1,532 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+     /* header start */
+     .header {
+        padding: 0px 0;
+    }
+
+     .menu ul li a {
+        margin: -3px 10px;
+       
+    }
+    .b_text {
+        padding: 35px 0 0;
+    }
+
+     .btn-searce {
+        margin-left: -48px;
+    }
+    
+    .dpm[data-bs-popper] {
+        top: 54px;
+        left: -57px;
+        padding: 5px 5px;
+    }
+    
+
+/* bannar start */
+.bannar {
+    padding: 20px 0;
+}
+
+.b_text {
+    padding: 10px 0 0;
+}
+
+
+
+.b_text h1 {
+    font-size: 27px;
+    padding: 0 0px 0 0;
+}
+
+
+.b_p {
+    padding: 0 0 0 0;
+    margin: 10px 0 10px;
+}
+
+.bt {
+    margin-bottom: 20px;
+}
+
+.b_img {
+    margin: -78px 0 0 0;
+}
+
+
+/* service start */
+
+.service {
+    padding: 0 0;
+}
+
+
+.s_text h1 {
+    padding: 0 0px 0 0;
+    font-size: 26px;
+}
+
+.s_text p {
+    padding: 0 0px 0 0;
+    margin-bottom: 10px;
+}
+.card {
+    padding: 15px 15px;
+   
+    margin-bottom: 10px;
+}
+
+.card p {
+    padding: 0 0px 0 0;
+}
+.card h3 {
+   
+    font-size: 20px;
+    padding: 0 0px 0 0;
+}
+/* count start */
+
+.all_counter {
+    padding: 25px 0;
+}
+
+.c_text h1 {
+    font-size: 25px;
+}
+
+.c_text p {
+    margin: 6px 0 20px;
+ 
+}
+
+
+.single_counter span {  
+    font-size: 25px;
+}
+
+.single_counter h4 {
+    font-size: 16px;
+}
+
+/* Testimonial  start */
+
+.Testimonial {
+    padding: 25px 0;
+}
+
+.t_text h1 {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+.single_t {
+   
+    text-align: center;
+}
+
+
+
+
+
+.single_t p {
+    padding: 5px;
+}
+
+.single_t {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+/* Complex Questions? start */
+.com_text h1 {
+    font-size: 30px;
+}
+
+
+.com_text p {
+    margin: 10px 0 10px;
+}
+.com_text p {
+    margin: 10px 0 10px;
+    padding: 0 0px 0 0;
+    
+}
+.support {
+    padding: 30px 0;
+  
+}
+
+ }
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /* header start */
+     .btn-searce {
+        margin-left: -48px;
+    }
+    .dpm[data-bs-popper] {
+        top: -23px;
+        left: 21px;
+        
+    }
+/* header start */
+.btn-searce {
+    margin-left: -48px;
+}
+.dpm[data-bs-popper] {
+    top: -23px;
+    left: 21px;
+    
+}
+
+/* bannar start */
+.bannar {
+    padding: 20px 0;
+}
+
+
+.b_text {
+    padding: 10px 0 0;
+}
+
+
+
+.b_text h1 {
+    font-size: 30px;
+    padding: 0 0px 0 0;
+}
+
+
+.b_p {
+    padding: 0 0 0 0;
+    margin: 10px 0 14px;
+}
+
+.bt {
+    margin-bottom: 20px;
+}
+
+.b_img {
+    margin: -135px 0 0 0;
+}
+
+
+/* service start */
+.service {
+    padding: 40px 0;
+}
+
+.s_text h1 {
+    padding: 0 0px 0 0;
+    font-size: 30px;
+}
+
+
+
+
+.s_text p {
+    padding: 0 30px 0 0;
+    margin-bottom: 10px;
+}
+
+
+.card {
+
+    margin-bottom: 10px;
+}
+
+
+.card p {
+    padding: 0 106px 0 0;
+}
+
+/* count start */
+
+.all_counter {
+    padding: 25px 0;
+}
+
+.c_text h1 {
+    font-size: 35px;
+}
+
+.c_text p {
+    margin: 6px 0 20px;
+ 
+}
+
+
+.single_counter span {  
+    font-size: 30px;
+}
+
+.single_counter h4 {
+    font-size: 18px;
+}
+
+/* Testimonial  start */
+
+.Testimonial {
+    padding: 25px 0;
+}
+
+.t_text h1 {
+    margin-bottom: 35px;
+    font-size: 30px;
+}
+
+.single_t p {
+    padding: 5px;
+}
+
+.single_t {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+/* Complex Questions? start */
+.com_text h1 {
+    font-size: 30px;
+}
+
+
+.com_text p {
+    margin: 10px 0 10px;
+}
+.support {
+    padding: 50px 0;
+   
+}
+
+
+
+.cm_logo h2 {
+    
+    font-size: 22px;
+}
+}
+
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   
+    /* header start */
+    .btn-searce {
+        margin-left: -48px;
+    }
+    .dpm[data-bs-popper] {
+        top: -23px;
+        left: 21px;
+        
+    }
+
+    /* bannar start */
+    .bannar {
+        padding: 20px 0;
+    }
+    
+
+    .b_text {
+        padding: 30px 0 0;
+    }
+
+    .b_text h1 {
+        font-size: 40px;
+        padding: 0 111px 0 0;
+    }
+
+    .b_p {
+        padding: 0 13px 0 0;
+    }
+
+    .bt {
+        margin-bottom: 20px;
+    }
+
+    .b_img {
+        margin: -32px 0 0 0;
+    }
+
+    /* service start */
+
+    .service {
+        padding: 60px 0;
+    }
+
+    .s_text h1 {
+        padding: 0 0px 0 0;
+        font-size: 34px;
+    }
+    .s_text p {
+        padding: 0 0px 0 0;
+    }
+    
+
+    .card h3 {
+        padding: 0 0px 0 0;
+        font-size: 20px;
+    }
+
+    .card p {
+        padding: 0 0px 0 0;
+    }
+
+    /* count start */
+
+    .all_counter {
+        padding: 55px 0;
+        
+    }
+
+    .c_text h1 {
+        
+        font-size: 40px;
+        
+    }
+    .single_counter span {  
+        font-size: 35px;
+    }
+    .single_counter h4 {
+        font-size: 18px;
+    }
+  /* Testimonial  start */
+
+  .Testimonial {
+    padding: 60px 0;
+    
+}
+
+  .t_text h1 {
+   
+    font-size: 40px;
+}
+.single_t {
+    
+    margin-bottom: 20px;
+}
+
+/* Complex Questions? start */
+.com_text h1 {
+    
+    font-size: 40px;
+}
+.com_text p {
+    margin: 12px 0 10px;
+   
+}
+/* support start */
+
+.support {
+    padding: 60px 0;
+   
+}
+.cm_logo h2 {
+    
+    font-size: 22px;
+}
+
+
+ }
+
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* bannar start */
+    .bannar {
+        
+        padding: 55px 0;
+    }
+
+
+
+    .b_text h1 {
+        font-size: 50px;
+        padding: 0 177px 0 0;
+    }
+    .b_p {
+        padding: 0 161px 0 0;
+    }
+    .bt {
+        margin-bottom: 33px;
+       
+    }
+
+
+    .b_img {
+        margin: -18px 0 0 0;
+    }
+    /* service start */
+    .service {
+       
+        padding: 70px 0;
+    }
+
+    .s_text p {
+        
+        padding: 0 256px 0 0;
+        
+    }
+    .s_text h1 {
+        padding: 0 92px 0 0;
+        font-size: 43px;
+    }
+    .s_text p {
+        padding: 0 160px 0 0;
+    }
+
+    .card h3 {
+        padding: 0 25px 0 0;
+    }
+
+    
+
+ }
+
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+   
+    /* bannar start */
+    .b_text h1 {
+        font-size: 56px;
+        
+    }
+
+    .b_img {
+        margin: -18px 0 0 0;
+    }
+    /* service start */
+
+    .s_text p {
+        
+        padding: 0 256px 0 0;
+        
+    }
+
+    .s_text h1 {
+      
+        padding: 0 147px 0 0;
+    }
+
+    .card h3 {
+       
+        padding: 0 60px 0 0;
+    }
+
+
+
+
+
+ }
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) { ... }
